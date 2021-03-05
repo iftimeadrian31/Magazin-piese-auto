@@ -1,0 +1,12 @@
+drop table combinatii_posibile;
+drop table tranzactii;
+drop table piese_caroserie;
+drop table ulei;
+drop table becuri;
+drop table parbrize;
+drop table piese;
+drop table detalii_masini;
+drop table masini;
+drop sequence masini_id_masina_seq;
+drop sequence piese_id_piesa_seq;
+drop sequence tranzactii_id_tranzactie_seq;
